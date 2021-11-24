@@ -8,3 +8,5 @@
 - ✍️ Python, SQL BigQuery, PowerBI
 
 ### Hope you enjoy and feel free to contact me related to the code's issues.
+
+Assignment 2 : [a link](https://github.com/EntropyP/CRM_Analytics/blob/main/Assignment02_Customer_Segmentation.ipynb)
