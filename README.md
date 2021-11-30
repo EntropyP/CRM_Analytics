@@ -15,7 +15,7 @@ Assignment 3 : [Product Recommendation](https://github.com/EntropyP/CRM_Analytic
 
 Assignment 4 : [Campaign Response Model](https://github.com/EntropyP/CRM_Analytics/blob/main/Assignment04_CampaignResponseModel.ipynb)
 
-Assignment 5 : 
+Assignment 5 : [AB Testing](https://github.com/EntropyP/CRM_Analytics/blob/main/Assignment05_AB_Testing.ipynb)
 
 Assignment 6 : 
 
