@@ -13,7 +13,7 @@ Assignment 2 : [Customer Segmentation](https://github.com/EntropyP/CRM_Analytics
 
 Assignment 3 : [Product Recommendation](https://github.com/EntropyP/CRM_Analytics/blob/main/Assignment03_Product_Recommendation.ipynb)
 
-Assignment 4 : 
+Assignment 4 : [Campaign Response Model](https://github.com/EntropyP/CRM_Analytics/blob/main/Assignment04_CampaignResponseModel.ipynb)
 
 Assignment 5 : 
 
