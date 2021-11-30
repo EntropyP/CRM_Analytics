@@ -21,7 +21,7 @@ Assignment 5 : [AB Testing](https://github.com/EntropyP/CRM_Analytics/blob/main/
 
 Assignment 6 : 
 
-Assignment 7 : 
+Assignment 7 : [Voice of Customer Analytics](https://github.com/EntropyP/CRM_Analytics/blob/main/Assignment07_Voice_of_Customer_Analytic.ipynb)
 
 Assignment 8 : 
 
