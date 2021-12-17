@@ -23,6 +23,6 @@ Assignment 6 :
 
 Assignment 7 : [Voice of Customer Analytics](https://github.com/EntropyP/CRM_Analytics/blob/main/Assignment07_Voice_of_Customer_Analytic.ipynb)
 
-Assignment 8 : 
+Assignment 8 : [Design Thinking](https://github.com/EntropyP/CRM_Analytics/blob/main/Assignment08_Design_Thinking/README.md)
 
 
