@@ -1,5 +1,5 @@
 # Design Thinking
-On-line study problem 
+Online study problem 
 
 ## 1) Empathize
 ![empathize](./Empathize.png)
@@ -11,7 +11,7 @@ On-line study problem
 ![ideate](./Ideate.png)
 
 ## 4) Prototype
-![prototype](./Prototype.jpg)
+![prototype](./Prototype.png)
 
 ## 5) Feedback
-![test](./Feedback.png)
+![Feedback](./Feedback.png)
