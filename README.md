@@ -19,10 +19,8 @@ Assignment 4 : [Campaign Response Model](https://github.com/EntropyP/CRM_Analyti
 
 Assignment 5 : [AB Testing](https://github.com/EntropyP/CRM_Analytics/blob/main/Assignment05_AB_Testing.ipynb)
 
-Assignment 6 : 
+Assignment 6 : [Churn Analysis](https://github.com/EntropyP/CRM_Analytics/blob/main/Assignment06_Churn_Analysis/README.md)
 
 Assignment 7 : [Voice of Customer Analytics](https://github.com/EntropyP/CRM_Analytics/blob/main/Assignment07_Voice_of_Customer_Analytic.ipynb)
 
 Assignment 8 : [Design Thinking](https://github.com/EntropyP/CRM_Analytics/blob/main/Assignment08_Design_Thinking/README.md)
-
-
