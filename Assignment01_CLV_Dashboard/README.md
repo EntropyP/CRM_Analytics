@@ -5,7 +5,7 @@ In this assignment, we generated one-page dashboard from supermarket sales data 
 ![Overall Dashboard](./Dashboard_overall.JPG)
 
 ## Quarterly Dashboard
-![Overall Dashboard](./Dashboard_quarter.JPG)
+![Dashboard_quarter](./Dashboard_quarter.JPG)
 
 ## Monthly Dashboard
-![Overall Dashboard](./Dashboard_monthlyl.JPG)
+![Dashboard_monthly](./Dashboard_monthly.JPG)
